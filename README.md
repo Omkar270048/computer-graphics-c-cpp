@@ -9,9 +9,14 @@ Basic Layout</br>
 void main(){
 	int gdriver = DETECT, gmode;
 	/*
-    code goes here
-  */
+    		code goes here
+  	*/
 	getch();
 	closegraph();
 }
+```
+
+Drawing line</br>
+```c++
+line(x1, y1, x2, y2);
 ```
