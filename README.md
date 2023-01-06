@@ -20,3 +20,8 @@ Drawing line</br>
 ```c++
 line(x1, y1, x2, y2);
 ```
+
+Drawing arc
+```c++
+arc(x, y, start_angle, end_angle, radius);
+```
