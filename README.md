@@ -36,6 +36,10 @@ Drawing Rectangle
 rectangle(x1, y1, x2, y2);
 ```
 
+Drawing ellipse
+```c
+ellipse(x, y, startingAngle, endingAngle, radius1, radius2);
+
 Drawing Hut
 ```c
 // Drawing hut
